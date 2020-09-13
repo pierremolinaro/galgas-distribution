@@ -8,7 +8,7 @@
             <title>Version 3.4.1</title>
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
             <pubDate>2020-09-13T19:36:27Z</pubDate>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/pierremolinaro/galgas-distribution/master/docs/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://pierremolinaro.github.io/galgas-distribution/release-notes.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/pierremolinaro/galgas-distribution/master/galgas-3.4.1.dmg" type="application/octet-stream" sparkle:edSignature="sfIKDQivK1CAb1o0jn4tN5LCriuAQaBur+LmQD7DfwVXIqH+5OKz1FRwFQHZp3gbHsVUef0u30zn9rOmDuYYDg==" sparkle:version="3.4.1" length="8519263"></enclosure>
         </item>
     </channel>
