@@ -18,7 +18,7 @@ func header () -> [String] {
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-let changeLogURL = "https://pierremolinaro.github.io/galgas-distribution/release-notes.html"
+let changeLogURL = "https://pierremolinaro.github.io/galgas-distribution/docs/release-notes.html"
 
 //——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 //   FOR PRINTING IN COLOR
