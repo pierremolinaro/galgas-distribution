@@ -1,6 +1,6 @@
 {
-  "edSignature" : "sfIKDQivK1CAb1o0jn4tN5LCriuAQaBur+LmQD7DfwVXIqH+5OKz1FRwFQHZp3gbHsVUef0u30zn9rOmDuYYDg==",
-  "length" : "8519263",
+  "edSignature" : "LFHVstyjiqC4pM4c8iEsQ\/tWK+HVAmpX\/5tAEktRQAjhoMHKE7Nz58zra0C2OeziiAHhOlAT\/jHqKVBBMir5Ag==",
+  "length" : "8990494",
   "bugfixes" : [
 
   ],
@@ -9,10 +9,10 @@
     "First release hosted by GITHUB"
   ],
   "changes" : [
-
+    "Cross compilation tools on www.pcmolinaro.name"
   ],
   "news" : [
 
   ],
-  "date" : "2020-09-13T19:36:27Z"
+  "date" : "2020-09-14T16:07:38Z"
 }

@@ -242,7 +242,7 @@ for (major, minor, patch) in sortedReleases {
 //---
   channel.addChild (item)
 //--- Release notes
-  releaseNotesHTML += "\n  <p>\n    <span class=\"version-title\">Version \(version) (build \(versionDescriptor.build))</span>\n  </p>\n"
+  releaseNotesHTML += "\n  <p>\n    <span class=\"version-title\">Version \(version)</span>\n  </p>\n"
   releaseNotesHTML += "  <ul>\n"
   for str in versionDescriptor.bugfixes {
     releaseNotesHTML += "    <li><span class=\"box new\">Bug Fix</span> \(str.html)</li>\n"
