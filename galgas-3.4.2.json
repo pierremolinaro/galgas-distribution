@@ -1,0 +1,18 @@
+{
+  "edSignature" : "BlGh\/aSYsNvldvZCn\/FaMbBq7Fkuo30+4w9+159hygdgU2VQABCoJhlqB3xhGpOZP\/TtDkNwYOzWI6nEhUFFAQ==",
+  "length" : "8986396",
+  "bugfixes" : [
+    "'GALGASBETAVERSION' placeholder fixed with actual GALGAS version"
+  ],
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Cross compilation for Linux64 on OSX now uses GCC 10.2"
+  ],
+  "news" : [
+
+  ],
+  "date" : "2020-10-30T18:07:03Z"
+}
