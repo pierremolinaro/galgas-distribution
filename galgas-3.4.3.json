@@ -1,0 +1,20 @@
+{
+  "edSignature" : "XHLkw+stNhsFiz8Y0NeqSPov2sr13LxTElD8FhEsGx31Qq726BlR4fFJBjCw9wZolv1Oz8A8NGw93acxRZ+cCw==",
+  "length" : "8871705",
+  "bugfixes" : [
+    "Compatibility with MacOS Big Sur"
+  ],
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "C++ compilation requires C++11"
+  ],
+  "news" : [
+    "Added optional methods to enumerations",
+    "Added @string getter 'commandWithArguments'",
+    "Added @string getter 'hiddenCommandWithArgument"
+  ],
+  "date" : "2021-05-20T10:36:22Z"
+}
