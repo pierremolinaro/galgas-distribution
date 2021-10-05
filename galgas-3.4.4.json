@@ -1,0 +1,18 @@
+{
+  "edSignature" : "kbAZK42j8tsYNL51GRM5u3IA\/KU+4+F7OKASRdxwa2kPwuuziA7erRtxu0RRW+GfVkY9iGcHtZZICYTSJSAPCg==",
+  "length" : "16269503",
+  "bugfixes" : [
+
+  ],
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Cocoa Application contains X86_64 and Apple Silicon executables"
+  ],
+  "news" : [
+
+  ],
+  "date" : "2021-10-05T15:21:19Z"
+}
