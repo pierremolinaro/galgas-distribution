@@ -1,0 +1,19 @@
+{
+  "edSignature" : "bh2ujdB8RMIpdbc1kJgqlrhgbspBIY25YrbVBci1EEh9M1NqDdlgDXPEgLHrbEs9xQsjzKo2Z8s\/iAbcUg12Bw==",
+  "length" : "8971931",
+  "bugfixes" : [
+
+  ],
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Nouvelle gestion des constantes",
+    "les suffixes des constantes littérales sont obsolètes et sans effet, une constante littérale est toujours du type @lbigint"
+  ],
+  "news" : [
+
+  ],
+  "date" : "2022-09-17T09:50:49Z"
+}
