@@ -1,0 +1,20 @@
+{
+  "edSignature" : "DmR7Gbw5Mw0IMbQ\/\/Owij9g4yJQ2oNxwz5UzjF6LJ7jDHIHks87gmxCqrq1\/dce5eFuUFcr\/OPnJxS5PS0OaDw==",
+  "length" : "15967608",
+  "bugfixes" : [
+
+  ],
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Suppression du makefile pour OSX (utiliser le makefile-unix)",
+    "Les makefiles pour cross-compiler pour Win32, X86_64 Linux, i686 Linux sur MacOS font appel aux compilateurs disponibles sur brew",
+    "Adaptation du makefile Unix pour Cygwin"
+  ],
+  "news" : [
+
+  ],
+  "date" : "2023-11-11T15:45:53Z"
+}
