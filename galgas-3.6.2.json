@@ -1,0 +1,18 @@
+{
+  "edSignature" : "Ykfkiq2u\/bc3FirkFUcpakCwU\/w7IOI6xN5eEExz53n+oyuufetGSmzBFCz8DjM0TH2XCHebbNrxN4l8wgsuAQ==",
+  "build" : "",
+  "date" : "2023-11-21T16:01:48Z",
+  "notes" : [
+
+  ],
+  "length" : "16118405",
+  "changes" : [
+    "Ajout de l'option -static lors de l'édition de liens des exécutables Windows"
+  ],
+  "bugfixes" : [
+
+  ],
+  "news" : [
+
+  ]
+}
