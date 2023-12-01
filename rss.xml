@@ -5,6 +5,13 @@
         <description>Most recent changes with links to updates</description>
         <language>en</language>
         <item>
+            <title>Version 3.6.3</title>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <pubDate>2023-12-01T17:50:23Z</pubDate>
+            <sparkle:releaseNotesLink>https://pierremolinaro.github.io/galgas-distribution/release-notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/pierremolinaro/galgas-distribution/master/galgas-3.6.3.dmg" type="application/octet-stream" sparkle:edSignature="phgbhS1crkiaHbvSOq+8oRtfW5omi0ZVlPduGS0lHwLNqi/FlNwE/bBX6TZl44uAbJHCEH5vKLML6WrJQgJcDQ==" sparkle:version="3.6.3" length="15871923"></enclosure>
+        </item>
+        <item>
             <title>Version 3.6.2</title>
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
             <pubDate>2023-11-21T16:01:48Z</pubDate>

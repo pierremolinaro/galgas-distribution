@@ -1,0 +1,18 @@
+{
+  "bugfixes" : [
+
+  ],
+  "news" : [
+    "Ajout de %makefile-macosx pour compiler l'outil ligne de commande sur MacOS pour X86_64, arm64 et Universal"
+  ],
+  "notes" : [
+
+  ],
+  "date" : "2023-12-01T17:50:23Z",
+  "build" : "",
+  "edSignature" : "phgbhS1crkiaHbvSOq+8oRtfW5omi0ZVlPduGS0lHwLNqi\/FlNwE\/bBX6TZl44uAbJHCEH5vKLML6WrJQgJcDQ==",
+  "length" : "15871923",
+  "changes" : [
+    "%makefile-unix : reconnaissance de cygwin par '(os.name == \"nt\") or sys.platform.startswith (\"cygwin\")'"
+  ]
+}
