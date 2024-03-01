@@ -1,0 +1,19 @@
+{
+  "news" : [
+    "Ajout de @string SHA256"
+  ],
+  "edSignature" : "9IZQD5UO4jjR9ahea78FyNU1XcWJwrgVv\/JvoL2kNccBwZJZmG4fHugxkcHtmdUht6RhtAC6SEoDQG\/uyUwOCg==",
+  "build" : "",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Remplacement de GMP par la librairie BigSignedBigUnsigned",
+    "Re-écriture de MD5 pour éliminer les débordements atrithmétiques"
+  ],
+  "date" : "2024-03-01T10:13:45Z",
+  "length" : "15527034",
+  "bugfixes" : [
+
+  ]
+}
