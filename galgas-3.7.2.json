@@ -1,0 +1,18 @@
+{
+  "build" : "",
+  "edSignature" : "ed+kWbSNGxDqibJJhvmfz6gaI3Bu9hxi1AFoJiCyRt0Y16YFCdOFOk0VM2XsEomH69puMuF4Eq7eVpbRXuEyBg==",
+  "length" : "14297989",
+  "notes" : [
+
+  ],
+  "changes" : [
+    "Mise à jour de la version minimum Mac OS : 14.6 (Sonoma)"
+  ],
+  "bugfixes" : [
+
+  ],
+  "date" : "2026-09-11T19:59:23Z",
+  "news" : [
+
+  ]
+}
